@@ -1,3 +1,3 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 ## Author
-[Abebe Dadi](https://github.com/Abewok/monty/)
+[Tewodros Tesfaye Woldetsadik](https://github.com/TeddyT21/monty/)
